@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#000"
+android:gravity="center"
+android:orientation="vertical"
+tools:context=".Welcome">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/fsu_font"
+        android:gravity="center"
+        android:text="@string/welcome"
+        android:textColor="#B9AD7C"
+        android:textSize="56sp"
+        android:translationY="-20dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:fontFamily="@font/fsu_font"
+        android:gravity="center"
+        android:text="@string/pick_your_opponent"
+        android:textColor="#B9AD7C"
+        android:textSize="26sp" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00000000"
+        android:fontFamily="@font/fsu_font"
+        android:foreground="@drawable/button_border"
+        android:text="@string/single_player"
+        android:textColor="#B9AD7C"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00000000"
+        android:fontFamily="@font/fsu_font"
+        android:foreground="@drawable/button_border"
+        android:text="@string/_2_players"
+        android:textColor="#B9AD7C"
+        android:textSize="24sp"
+        android:translationY="10dp" />
+
+</LinearLayout>

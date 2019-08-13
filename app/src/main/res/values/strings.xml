@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ruben Navarro - Project 1</string>
+    <string name="button1">Button1</string>
+    <string name="todo">TODO</string>
+    <string name="tic_tac_nole">TIC TAC NOLE</string>
+    <string name="created_by_ruben_navarro">CREATED BY: RUBEN NAVARRO</string>
+    <string name="play_again">Play Again!</string>
+    <string name="its_time_to_shine_go">ITS TIME TO SHINE, GO!</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+    <string name="result1"></string>
+    <string name="result2"></string>
+    <string name="result3"></string>
+    <string name="result4"></string>
+    <string name="result5"></string>
+    <string name="result6"></string>
+    <string name="result7"></string>
+    <string name="result8"></string>
+    <string name="result9"></string>
+    <string name="welcome">WELCOME!</string>
+    <string name="pick_your_opponent">PICK YOUR OPPONENT</string>
+    <string name="single_player">SINGLE PLAYER</string>
+    <string name="_2_players">2 PLAYERS</string>
+</resources>
